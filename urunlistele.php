@@ -10,7 +10,9 @@
 
 <?php
 	
-	
+          $dosya1=fopen("urun.txt","r");
+		$dosya2=fopen("markası.txt","r");
+		while (!feof($fiyat1) && !feof($fiyat2))	
 	
 	
 	
